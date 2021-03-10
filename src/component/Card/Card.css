@@ -1,0 +1,15 @@
+.team img{
+    width: 100px;
+    height: 100px;
+}
+.team{
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 300px;
+
+    margin: 20px;
+    padding: 20px;
+    background-color: aqua;
+    
+    
+}
