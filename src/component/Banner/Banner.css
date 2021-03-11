@@ -2,3 +2,8 @@
     width: 1350px;
     height: 400px;
 }
+
+.text h1{
+    text-align: center;
+    background-color: yellow;
+}

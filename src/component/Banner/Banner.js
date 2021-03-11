@@ -5,6 +5,9 @@ const Banner = () => {
     return (
         <div className="banner">
             <img src={banner}></img>
+            <div className="text">
+                <h1>Team Tracker</h1>
+            </div>
         </div>
     );
 };
